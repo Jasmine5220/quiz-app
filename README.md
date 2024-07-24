@@ -3,13 +3,6 @@
 Welcome to the Quiz App! 
 This project is a React.js application created for practicing and enhancing my React skills. It features a dynamic quiz interface where users can test their knowledge on various topics. Dive in and have some fun while learning!
 
-## Table of Contents
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-
 ## Features
 - User-friendly
 - Responsive design
@@ -17,6 +10,7 @@ This project is a React.js application created for practicing and enhancing my R
 
 ## Technologies Used
 - React.js
+- JavaScript
 - CSS3
 - HTML5
 
@@ -47,17 +41,6 @@ To get a local copy up and running, follow these steps:
 ## Usage
 - Get real-time feedback and review your score at the end.
 - Track your score and improve your knowledge.
-
-## Screenshots
-
-### Quiz Page
-![Quiz Page Screenshot](screenshots/image1.png)
-
-### Quiz Page
-![Quiz Page Screenshot](screenshots/image2.png)
-
-### Results Page
-![Results Page Screenshot](screenshots/image3.png)
 
 
 ---
